@@ -19,7 +19,7 @@
 
 #let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
 
-= Alex Chi
+= Zhihao Bao
 
 skyzh\@cmu.edu |
 #link("https://github.com/skyzh")[github.com/skyzh] | #link("https://skyzh.dev")[skyzh.dev]
